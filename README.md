@@ -1,4 +1,3 @@
-```markdown
 # Social Media Bot
 
 This is a simple Python script using to automate posting on social media platforms like instagram, twitter and facebook.
